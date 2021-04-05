@@ -1,3 +1,3 @@
-Diversas Funções criadas em MathLab úteis para diversas situações.
+## Diversas Funções criadas em matlab
 
-Criadas no âmbito da disciplina de Análise númerica do 2º ano do curso de Ciências da Computação.
+No âmbito da disciplina de Análise númerica do 2º ano do curso de Ciências da Computação.
